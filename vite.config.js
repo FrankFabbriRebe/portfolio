@@ -8,6 +8,6 @@ export default defineConfig({
 
 module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/nome-repo/' // Sostituisci 'nome-repo' con il nome della tua repository su GitHub
+    ? '/portfolio/' // Sostituisci 'nome-repo' con il nome della tua repository su GitHub
     : '/'
 }

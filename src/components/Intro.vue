@@ -27,7 +27,7 @@ export default {
                 <!-- text -->
                 <div class="col-md-6 d-flex flex-column align-items-center justify-content-center"
                     data-aos="fade-up-left" data-aos-duration="2500">
-                    <h1>F. Fabbri Rebecchi</h1>
+                    <!-- <h1>F. Fabbri Rebecchi</h1> -->
                     <h2>Web developer</h2>
 
                     <!-- div link -->

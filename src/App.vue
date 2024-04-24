@@ -2,12 +2,18 @@
 
 import Intro from './components/Intro.vue'
 import Profile from './components/Profile.vue'
+import Skills from './components/Skills.vue'
+import Progetti from './components/Progetti.vue'
+
+
 
 export default {
 
   components: {
     Intro,
-    Profile
+    Profile,
+    Skills,
+    Progetti
   }
 
 }
@@ -18,6 +24,8 @@ export default {
 
   <Intro />
   <Profile />
+  <Skills />
+  <Progetti />
 
 </template>
 

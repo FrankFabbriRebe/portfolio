@@ -23,7 +23,8 @@ export default {
             <div class="row">
 
                 <!-- Delliveboo -->
-                <div class="col-md-6 d-flex flex-column align-items-center mb-3">
+                <div class="col-md-6 d-flex flex-column align-items-center mb-3" data-aos="zoom-in-up"
+                    data-aos-duration="1000" data-aos-delay="1000">
                     <h3>Deliveboo</h3>
                     <a href="https://github.com/FrankFabbriRebe/final_project_front-end">
                         <img src="../assets/progetti/Deliveboo.jpg" alt="">
@@ -31,7 +32,8 @@ export default {
                 </div>
 
                 <!-- Spotify web -->
-                <div class="col-md-6 d-flex flex-column align-items-center mb-3">
+                <div class="col-md-6 d-flex flex-column align-items-center mb-3" data-aos="zoom-in-up"
+                    data-aos-duration="1000" data-aos-delay="1300">
                     <h3>titolo</h3>
                     <img src="../assets/progetti/Deliveboo.jpg" alt="">
                 </div>
@@ -41,21 +43,21 @@ export default {
             <div class="row">
 
                 <!-- Delliveboo -->
-                <div class="col-md-6 d-flex flex-column align-items-center mb-3">
+                <div class="col-md-6 d-flex flex-column align-items-center mb-3" data-aos="zoom-in-up"
+                    data-aos-duration="1000" data-aos-delay="1600">
                     <h3>titolo</h3>
                     <img src="../assets/progetti/Deliveboo.jpg" alt="">
                 </div>
 
                 <!-- Spotify web -->
-                <div class="col-md-6 d-flex flex-column align-items-center mb-3">
+                <div class="col-md-6 d-flex flex-column align-items-center mb-3" data-aos="zoom-in-up"
+                    data-aos-duration="1000" data-aos-delay="1900">
                     <h3>titolo</h3>
                     <img src="../assets/progetti/Deliveboo.jpg" alt="">
                 </div>
 
 
             </div>
-
-
 
         </div>
 
@@ -79,6 +81,14 @@ h3 {
 img {
     height: 100%;
     width: 100%;
+}
+
+.box {
+    background-color: #026E81;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: center;
+    color: #00ABBD;
 }
 
 // debug

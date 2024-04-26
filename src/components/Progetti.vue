@@ -31,29 +31,35 @@ export default {
                     </a>
                 </div>
 
-                <!-- Spotify web -->
+                <!-- Boolzapp -->
                 <div class="col-md-6 d-flex flex-column align-items-center mb-3" data-aos="zoom-in-up"
                     data-aos-duration="1000" data-aos-delay="1300">
-                    <h3>titolo</h3>
-                    <img src="../assets/progetti/Deliveboo.jpg" alt="">
+                    <h3>Boolzapp</h3>
+                    <a href="https://frankfabbrirebe.github.io/vue-boolzapp/">
+                        <img src="../assets/progetti/Boolzapp.jpg" alt="">
+                    </a>
                 </div>
 
             </div>
 
             <div class="row">
 
-                <!-- Delliveboo -->
+                <!-- Spotify web app -->
                 <div class="col-md-6 d-flex flex-column align-items-center mb-3" data-aos="zoom-in-up"
                     data-aos-duration="1000" data-aos-delay="1600">
-                    <h3>titolo</h3>
-                    <img src="../assets/progetti/Deliveboo.jpg" alt="">
+                    <h3>Spotify web app</h3>
+                    <a href="https://frankfabbrirebe.github.io/html-css-spotifyweb/">
+                        <img src="../assets/progetti/Spotify.jpg" alt="">
+                    </a>
                 </div>
 
-                <!-- Spotify web -->
+                <!-- Boolflix -->
                 <div class="col-md-6 d-flex flex-column align-items-center mb-3" data-aos="zoom-in-up"
                     data-aos-duration="1000" data-aos-delay="1900">
-                    <h3>titolo</h3>
-                    <img src="../assets/progetti/Deliveboo.jpg" alt="">
+                    <h3>Boolflix</h3>
+                    <a href="https://frankfabbrirebe.github.io/vite-boolflix/">
+                        <img src="../assets/progetti/Boolflix.png" alt="">
+                    </a>
                 </div>
 
 

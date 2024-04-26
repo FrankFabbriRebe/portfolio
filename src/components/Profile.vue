@@ -56,13 +56,10 @@ export default {
 
                     <div class="row">
                         <div class="col-12 text mt-5">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure magnam accusantium expedita
-                                distinctio, optio ea. Cum nihil nesciunt incidunt quas molestiae ipsam pariatur. Quod at
-                                pariatur deserunt cupiditate ipsam iste!
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure magnam accusantium
-                                expedita
-                                distinctio, optio ea. Cum nihil nesciunt incidunt quas molestiae ipsam pariatur. Quod at
-                                pariatur deserunt cupiditate ipsam iste!</p>
+                            <p>Sono uno sviluppatore web che ha recentemente completato con successo il bootcamp di
+                                Boolean in sviluppo full stack. Con una solida comprensione dei principali linguaggi di
+                                programmazione e framework, sono entusiasta di applicare le mie competenze per
+                                contribuire a progetti innovativi e stimolanti.</p>
                         </div>
                     </div>
 
@@ -112,6 +109,7 @@ img {
     padding: 30px;
     text-align: center;
     color: #00ABBD;
+    width: 100%;
 }
 
 a {
@@ -125,5 +123,6 @@ i {
 
 p {
     color: #026E81;
+    font-size: 20px;
 }
 </style>

@@ -20,14 +20,14 @@ export default {
             </div>
 
             <!-- progetti -->
-            <div class="row">
+            <div class="row d-flex flex-wrap">
 
                 <!-- Delliveboo -->
-                <div class="col-md-6 d-flex flex-column align-items-center mb-3" data-aos="zoom-in-up"
+                <div class="col-md-6 d-flex flex-column align-items-center mb-3 deliveboo" data-aos="zoom-in-up"
                     data-aos-duration="1000" data-aos-delay="1000">
                     <h3>Deliveboo</h3>
                     <a href="https://github.com/FrankFabbriRebe/final_project_front-end">
-                        <img src="../assets/progetti/Deliveboo.jpg" alt="">
+                        <img src="../assets/progetti/Deliveboo.png" alt="">
                     </a>
                 </div>
 
@@ -39,10 +39,6 @@ export default {
                         <img src="../assets/progetti/Boolzapp.jpg" alt="">
                     </a>
                 </div>
-
-            </div>
-
-            <div class="row">
 
                 <!-- Spotify web app -->
                 <div class="col-md-6 d-flex flex-column align-items-center mb-3" data-aos="zoom-in-up"
@@ -61,7 +57,6 @@ export default {
                         <img src="../assets/progetti/Boolflix.png" alt="">
                     </a>
                 </div>
-
 
             </div>
 
@@ -97,12 +92,7 @@ img {
     color: #00ABBD;
 }
 
-// debug
-// .row {
-//     border: 3px solid red;
-// }
-
-// [class^="col"] {
-//     border: 3px solid yellow;
-
-// }</style>
+img:hover {
+    border: 3px solid #026E81;
+}
+</style>

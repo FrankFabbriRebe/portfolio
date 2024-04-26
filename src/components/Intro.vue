@@ -54,7 +54,6 @@ export default {
 <style lang="scss" scoped>
 .intro {
     height: 100vh;
-    width: 100vw;
     background-color: #026E81;
 }
 

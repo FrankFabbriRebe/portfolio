@@ -101,6 +101,7 @@ h3 {
 
 img {
     border-radius: 20px;
+    width: 100%;
 }
 
 .box {
